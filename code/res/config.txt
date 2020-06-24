@@ -1,0 +1,53 @@
+[Config]
+
+## Variabili per connessione al db MySql
+#Parametro dbCreato=0 se deve essere creato il DB, =1 se è già presente
+username = username
+password = password
+dbName = bpi_full
+dbUrl=jdbc:mysql://localhost:3306/
+dbCreato=1
+
+## Percorsi per file di input e output
+
+#Filepath dell'event log		
+eventLog=res/BPI/repair_small.xes
+
+#Filepath del process model
+model=res/BPI/bpi.pnml
+#model=res/BPI/repair_petrinet.pnml
+
+#Filepath per i risultati temporanei dell'algoritmo di instance graph generation
+graphsFile= res/prova_graphs.g
+
+#Base directory	
+folder=res/BPI/
+
+#Subdirectory "Conformance"		
+conformance=res/BPI/Conformance
+
+#Subdirectory "graphsDot"		
+graphsFolder=res/BPI/graphsDot
+
+#Ultima attività e relativo tempo medio stimato a priori
+lastActivity=W_Afhandelenleads
+#lastActivity = Archive repair
+avgTime = 1000
+
+#Risorsa da sostituire
+resource = R4
+
+#Fattori w per il calcolo dell'affinità e della similarità
+w0 = 1
+w1 = 1
+w2 = 0.5
+w3 = 1
+
+#Coefficiente dei costi di disponibilità
+beta = 1
+
+#Ulteriori parametri
+arg0=0
+arg1=1500000
+arg3=1
+arg4=10000000
