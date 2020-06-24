@@ -15,7 +15,6 @@ eventLog=res/BPI/repair_small.xes
 
 #Filepath del process model
 model=res/BPI/bpi.pnml
-#model=res/BPI/repair_petrinet.pnml
 
 #Filepath per i risultati temporanei dell'algoritmo di instance graph generation
 graphsFile= res/prova_graphs.g
@@ -31,7 +30,6 @@ graphsFolder=res/BPI/graphsDot
 
 #Ultima attività e relativo tempo medio stimato a priori
 lastActivity=W_Afhandelenleads
-#lastActivity = Archive repair
 avgTime = 1000
 
 #Risorsa da sostituire
