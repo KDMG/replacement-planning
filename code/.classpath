@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/AlphaMiner.jar"/>
+	<classpathentry kind="lib" path="lib/BasicUtils.jar"/>
+	<classpathentry kind="lib" path="lib/colt.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/cplex.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/opt/ibm/ILOG/CPLEX_Studio_Community129/cplex/bin/x86-64_linux"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/EfficientStorage.jar"/>
+	<classpathentry kind="lib" path="lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/HeuristicsMiner.jar"/>
+	<classpathentry kind="lib" path="lib/IG_ESWA.jar"/>
+	<classpathentry kind="lib" path="lib/InductiveMiner.jar"/>
+	<classpathentry kind="lib" path="lib/javacsv.jar"/>
+	<classpathentry kind="lib" path="lib/jgraph-5.13.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jgrapht-core-0.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/jgrapht-demo-0.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/jgrapht-ext-0.9.0-uber.jar"/>
+	<classpathentry kind="lib" path="lib/jgrapht-ext-0.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/jgraphx-2.0.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsch-0.1.52.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-3.5.jar"/>
+	<classpathentry kind="lib" path="lib/OpenXES-XStream.jar"/>
+	<classpathentry kind="lib" path="lib/OpenXES.jar"/>
+	<classpathentry kind="lib" path="lib/PetriNets.jar"/>
+	<classpathentry kind="lib" path="lib/PNetReplayer.jar"/>
+	<classpathentry kind="lib" path="lib/ProcessTree.jar"/>
+	<classpathentry kind="lib" path="lib/ProM-Contexts.jar"/>
+	<classpathentry kind="lib" path="lib/ProM-Framework.jar"/>
+	<classpathentry kind="lib" path="lib/ProM-Models.jar"/>
+	<classpathentry kind="lib" path="lib/ProM-Plugins.jar"/>
+	<classpathentry kind="lib" path="lib/ProM5.jar"/>
+	<classpathentry kind="lib" path="lib/Properties.jar"/>
+	<classpathentry kind="lib" path="lib/slickerbox1.0rc1.jar"/>
+	<classpathentry kind="lib" path="lib/Spex.jar"/>
+	<classpathentry kind="lib" path="lib/trove-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/Uitopia.jar"/>
+	<classpathentry kind="lib" path="lib/univocity-parsers-1.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="lib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-1.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
