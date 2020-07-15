@@ -11,9 +11,10 @@ We propose a framework for supporting resource replacement that makes use of log
 
 ## Content
 
-The folder "code" includes an Eclipse project implementing the resource replacement approach described in [1].
+The folder "code" includes an Eclipse project implementing our resource replacement approach proposed in 
 
-[1] Andrea Chiorrini, Claudia Diamantini, Domenico Potena and Emanuele Storti. _"How to cope with personnel unavailability? Process Mining may help!"_. In Proc. of the 28th Symposium on Advanced Database Systems (SEBD2020), to appear, 2020. 
+Andrea Chiorrini, Claudia Diamantini, Domenico Potena and Emanuele Storti. "Data-driven Replacement Planning Through Organizational Mining". Submitted to the 2nd International Conference on Process Mining (ICPM 2020), Oct 5-8, 2020, Padua, Italy.
+
 
 ## Contacts
 
